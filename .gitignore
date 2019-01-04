@@ -1,3 +1,5 @@
+﻿# Created by .ignore support plugin (hsz.mobi)
+### Android template
 # Built application files
 *.apk
 *.ap_
@@ -34,7 +36,10 @@ captures/
 
 # Intellij
 *.iml
-.idea/workspace.xml
+.idea/
 
 # Keystore files
 *.jks
+
+
+!/build/reports/profile/profile-2017-07-25-15-22-37.html
